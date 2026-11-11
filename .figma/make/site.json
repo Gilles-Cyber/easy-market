@@ -1,0 +1,11 @@
+{
+  "title": "Easy Market",
+  "description": "Shop clothing, food, phones, and more from a mobile-friendly Cameroon marketplace, with FCFA pricing, local payment options, order tracking, and seller tools.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
